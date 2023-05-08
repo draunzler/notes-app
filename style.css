@@ -28,7 +28,7 @@ body{
 }
 .notes .main{
     height: 100%;
-    display: none;
+    width: 100%;
 }
 .notes textarea{
     width: 100%;
